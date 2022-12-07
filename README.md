@@ -45,10 +45,12 @@
 24.      Write a program that read an array and write a file with ascending order.
 
 ##       Write the following pyramid in a file
-25.       1
-       22
-       333
-       4444
+25. 
+              1
+              22
+              333
+              4444
+              
 26.       Write a program that count number of lower_case, upper_case, digit, space, line and other character in a file.
 27.          Write a program to display  a pattern like below . Your program should take height of a patttern from keyboard . For example , a pattern of height 4 is shown below. 
             AA                     00
