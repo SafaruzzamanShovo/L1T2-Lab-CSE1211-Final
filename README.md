@@ -40,12 +40,16 @@
 19.      Write a program that multiply two matrix
 20.      Write a program in C to swap two numbers using function.
 21.      Write a program in C to check whether a number is a prime number or not using the function
+
+##   Recursion
+
 22.      Find Factorial value using recursion.
 23.      Find Fibonacci number using recursion.
-24.      Write a program that read an array and write a file with ascending order.
 
-##       Write the following pyramid in a file
-25. 
+##   File Related
+
+24.      Write a program that read an array and write a file with ascending order.     
+25.            Write the following pyramid in a file
               1
               22
               333
