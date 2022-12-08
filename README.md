@@ -7,14 +7,18 @@
 5.     Reverse number.
 6.     Write a C program that read any binary number and display equivalent decimal number.
 7.     Write a C program that read any octal number and display equivalent decimal number.
-8.     1+2+3+4+..................upto n’th term.
-9.     1^2+2^2+3^2+4^2+........N^2
-10.      2+4+6+8+............... upto n’th term
-11.      1+3+5+7+................upto n’th term
-12.      1+ 1/2 + 1/3 + 1/4 + 1/5 + ............ 1/N
-13.      1 + 3^2/3^3 + 5^2/5^3 + 7^2/7^3 + ... till N terms (use pow() function)
-14.      1.1^2+2.3^2+3.5^2+.............upto n’th term
 
+## Series related
+
+9.     1+2+3+4+..................upto n’th term.
+10.     1^2+2^2+3^2+4^2+........N^2
+11.      2+4+6+8+............... upto n’th term
+12.      1+3+5+7+................upto n’th term
+13.      1+ 1/2 + 1/3 + 1/4 + 1/5 + ............ 1/N
+14.      1 + 3^2/3^3 + 5^2/5^3 + 7^2/7^3 + ... till N terms (use pow() function)
+15.      1.1^2+2.3^2+3.5^2+.............upto n’th term
+
+## Pattern 
 
 15.          
               *
@@ -36,8 +40,13 @@
               A
               A B
               A B C
-        
+              
+## 2D Array / Matrix
+
 19.      Write a program that multiply two matrix
+
+## Function
+
 20.      Write a program in C to swap two numbers using function.
 21.      Write a program in C to check whether a number is a prime number or not using the function
 
@@ -61,6 +70,8 @@
             BBAA                   1100
             AABBAA                 001100
             BBAABBAA               11001100
+
+## Structure Related
 
 28.       Write a program that read and display any number of students name roll and mark using Structure.
 
