@@ -16,7 +16,7 @@ int main()
     else{
         ch=fgetc(fp);
        while(!feof(fp)){
-            //ch=fgetc(fp);
+           
             if(ch<='z' && ch>='a') lower++;
             else if(ch<='Z' && ch>='A') upper++;
             else if(ch>='0' && ch<='9') digit++;
