@@ -8,7 +8,7 @@ int main()
     char ch;
     int i=0,lower,upper,digit,line,others,space;
     lower=upper=digit=others=space=0;
-    line =0;
+    line =1;
     fp = fopen("shovo.txt", "r");
     if (fp == NULL){
         printf("File doesn't exist\n");
