@@ -1,5 +1,4 @@
-This repository contains the solutions, codes, and resources developed for the **C Programming Lab** under the course **CSE1211**.  
-The lab was conducted during **Level 1, Term 2**, and supervised by **Sameya Akter Ma’am**.
+This repository contains the solutions, codes, and resources developed for the **C Programming Lab** under the course **CSE1211**.  The lab was conducted during **Level 1, Term 2**, and supervised by **Sameya Akter Ma’am**.
 
 
 ## Basic Syntax
