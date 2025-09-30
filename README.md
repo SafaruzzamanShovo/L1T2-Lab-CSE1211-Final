@@ -1,5 +1,9 @@
-##  L1T2-Lab-CSE1211-Final
-# This is some change that i need to know
+This repository contains the solutions, codes, and resources developed for the **C Programming Lab** under the course **CSE1211**.  
+The lab was conducted during **Level 1, Term 2**, and supervised by **Sameya Akter Ma’am**.
+
+
+## Basic Syntax
+
 1.     Write a program that read ASCII value and display equivalent character. 
 2.     Write a program that read any lower case latter and display in upper case.
 3.     Write a C program to find total number of alphabets, digits or special character in a string.
